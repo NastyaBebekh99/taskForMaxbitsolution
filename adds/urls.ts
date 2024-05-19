@@ -1,0 +1,9 @@
+export const mainPageUrl = "https://roxcasino4112.com";
+export const statusPageUrl = "/status";
+export const tournamentPageUrl = "/tournaments";
+export const bonusPageUrl = "/bonus";
+export const lotteryPageUrl = "/lottery";
+export const cashbackPageUrl = "/cashback";
+export const newsPageUrl = "/news";
+export const promotionsPageUrl = "/promotions";
+export const profilePageUrl = "/profile";
