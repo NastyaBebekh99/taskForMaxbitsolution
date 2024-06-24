@@ -1,0 +1,1 @@
+export const popUpAuthorization = "js-modal-container-rox"
